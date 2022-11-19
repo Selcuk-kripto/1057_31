@@ -4,6 +4,6 @@ The file "algo1057.m" computes the coefficient matrix [A_{i,j}] that determines 
 
 C file:
 
-The file "pw1057.cpp" obtains the truth tables of Boolean functions given by Table 1 in [1] and computes their nonlinearities. All the truth tables are saved in the file "TTs.txt".
+The file "pw1057.cpp" obtains the truth tables of Boolean functions given by Table 1 in [1] and computes their nonlinearities. It generates the file "TTs.txt" which contains all the corresponding truth tables.
 
 [1] Kavut, S. Boolean Functions Generated from (1057, 31)-Interleaved Sequences. Submitted to TBV Journal of Computer Science and Engineering.
